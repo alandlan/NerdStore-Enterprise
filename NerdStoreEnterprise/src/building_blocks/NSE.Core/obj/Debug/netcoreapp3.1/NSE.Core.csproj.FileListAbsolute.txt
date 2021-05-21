@@ -1,0 +1,8 @@
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csprojAssemblyReference.cache
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\building_blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb

@@ -348,3 +348,4 @@ D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.Views.pdb
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.dll
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.pdb
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csprojAssemblyReference.cache

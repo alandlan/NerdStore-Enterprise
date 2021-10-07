@@ -1,6 +1,5 @@
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\NSE.WebApp.MVC.exe
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
@@ -348,4 +347,8 @@ D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.Views.pdb
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.dll
 D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.pdb
-D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csprojAssemblyReference.cache
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csproj.AssemblyReference.cache
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csproj.CoreCompileInputs.cache
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\NSE.WebApp.MVC.styles.css
+D:\Desenvolvedor_io\NerdStore-Enterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.genruntimeconfig.cache

@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NerdStoreEnterprise",
+    "\\NerdStoreEnterprise\\.vs",
+    "\\NerdStoreEnterprise\\.vs\\NerdStoreEnterprise",
+    "\\NerdStoreEnterprise\\.vs\\NerdStoreEnterprise\\v16",
+    "\\NerdStoreEnterprise\\.vs\\NerdStoreEnterprise\\v16\\Server\\sqlite3",
+    "\\NerdStoreEnterprise\\src\\building_blocks",
+    "\\NerdStoreEnterprise\\src\\building_blocks\\NSE.Core"
   ],
+  "SelectedNode": "\\NerdStoreEnterprise\\.vs\\NerdStoreEnterprise\\v16\\Server",
   "PreviewInSolutionExplorer": false
 }
